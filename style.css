@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5,h6 {text-align: center;
+color:black;
+font-family: "Heebo", sans-serif;
+line-height: 1.2rem;
+font-size: 20rem;}
+p {color:black;
+font-family: Times New Roman;
+font-size: 20rem;}
+#home {background-color: floralwhite;}
