@@ -1,5 +1,5 @@
-h1,h2,h4,h6 {text-align: center;
-    color: #59554C;
+h1,h2,h4,h7 {text-align: center;
+    color: #adb2a4;
     font-family: "Heebo", sans-serif;
     font-size: 2.0rem;}
     p {color:#59554C;
@@ -7,4 +7,5 @@ h1,h2,h4,h6 {text-align: center;
     font-size: 1.5rem;}
 body {background-color: #F2EFDF;}
 h3,h5,h6 {text-align: left;
-    color: #6BAEDC}
+    color: #e8d1c0}
+    nav {color: #dae1dd}
