@@ -1,11 +1,16 @@
-h1,h2,h4,h7 {text-align: left;
-    color: #44474D;
+body {background-color: #F2EFDF;}
+h1,h2,h4 {text-align: left;
+    color:#44474D;
     font-family: "Heebo", sans-serif;
     font-size: 2.0rem;}
     p {color:#59554C;
     font-family: Times New Roman;
     font-size: 1.5rem;}
-body {background-color: #F2EFDF;}
 h3,h5,h6,h8 {text-align: left;
-    color: #9CA5B1}
-    nav {color: #59554C}
+    font-family: "Heebo", sans-serif;
+    font-size: 2.0rem;
+    color: #9CA5B1;}
+h7 {text-align: center;
+    color:#44474D;
+    font-family: "Heebo", sans-serif;
+    font-size: 2.0rem;}
