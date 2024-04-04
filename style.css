@@ -1,6 +1,6 @@
 body {background-color: #F2EFDF;}
 h1 {text-align: left;
-    color:#2B567F;
+    color:#90A7A7;
     font-family: "Heebo", sans-serif;
     font-size: 2.2rem;}
     p {color:#59554C;
@@ -9,8 +9,12 @@ h1 {text-align: left;
 h2 {text-align: center;
     font-family: "Heebo", sans-serif;
     font-size: 2.2rem;
-    color: #2B567F}
+    color: #90A7A7}
 h3 {text-align: center;
+    font-family: "Heebo", sans-serif;
+    font-size: 1.8rem;
+    color: #4589CC}
+h4 {text-align: left;
     font-family: "Heebo", sans-serif;
     font-size: 1.8rem;
     color: #4589CC}
